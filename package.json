@@ -1,0 +1,15 @@
+{
+  "name": "npc_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dropecho/langgen": "^0.7.1",
+    "@dropecho/storygen": "^0.12.1"
+  }
+}
